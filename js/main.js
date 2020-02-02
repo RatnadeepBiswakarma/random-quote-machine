@@ -97,5 +97,12 @@
     tumblrButton.setAttribute("href", tumblrUrl);
   }
 
+  function hideTestCasesDropdown() {
+    // hide test cases dropdown for new users
+    localStorage["project_selector"] = "random-quote-machine";
+    localStorage["fCC_random-quote-machine_hide"] = "true";
+  }
+
+  hideTestCasesDropdown();
   getQuotes();
 })();
