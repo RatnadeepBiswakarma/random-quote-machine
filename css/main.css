@@ -17,7 +17,7 @@ body {
   border-radius: 5px;
   padding: 2rem;
   margin: auto;
-  font-size: 2rem;
+  font-size: 1rem;
   background-color: white;
   position: relative;
   top: 50%;
@@ -112,5 +112,6 @@ body {
   #quote-box {
     width: 90%;
     max-width: 700px;
+    font-size: 2rem;
   }
 }
