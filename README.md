@@ -1,5 +1,8 @@
 # random-quote-machine
 
+## See it live
+https://ratnadeep-random-quote-machine.netlify.com/
+
 ## Language used 
 1. HTML
 2. CSS
